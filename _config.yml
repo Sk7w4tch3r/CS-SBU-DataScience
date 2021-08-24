@@ -1,8 +1,8 @@
 permalink:           pretty
 
 # Setup
-title:               'Course'
-tagline:             'A Jekyll theme'
+title:               'Data Science Course'
+tagline:             'CS@SBU'
 url:                 http://127.0.0.1:4000
 baseurl:             ''
 homepage_title:      Home
@@ -10,10 +10,10 @@ default_lang:        'en'
 
 # About/contact
 author:
-  name:              Zeming Lin
-  url:               https://twitter.com/ebetica
+  name:              Hesam Damghanian
+  url:               https://twitter.com/c3nt4ur1
 github:
-  repo:              https://github.com/ebetica/jekyllbook/
+
 
 # Custom vars
 version:             1.0.0
