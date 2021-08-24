@@ -1,9 +1,9 @@
 permalink:           pretty
 
 # Setup
-title:               'Data Science Course'
-tagline:             'CS@SBU'
-url:                 http://127.0.0.1:4000
+title:               'CS@SBU'
+tagline:             'Data Science Course'
+url:                 https://sk7w4tch3r.github.io/CS-SBU-DataScience/
 baseurl:             ''
 homepage_title:      Home
 default_lang:        'en'
