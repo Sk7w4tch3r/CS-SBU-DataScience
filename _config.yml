@@ -1,22 +1,47 @@
-# Setup
-title:               CS SBU
-tagline:             'Neural Networks'
-description:         'Course Website'
-url:                 https://sk7w4tch3r.github.io/CS-SBU-DataScience/
-baseurl:             ''
-paginate:            5
 permalink:           pretty
+
+# Setup
+title:               'Course'
+tagline:             'A Jekyll theme'
+url:                 http://127.0.0.1:4000
+baseurl:             ''
+homepage_title:      Home
+default_lang:        'en'
 
 # About/contact
 author:
-  name:              Hesam Damghanian
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
-
-# Gems
-plugins:
-  - jekyll-paginate
+  name:              Zeming Lin
+  url:               https://twitter.com/ebetica
+github:
+  repo:              https://github.com/ebetica/jekyllbook/
 
 # Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+version:             1.0.0
+
+src:                 "."
+default_theme:       "ayu"
+
+# To use hljs, disable the default highlighter
+# We also use a built-in math engine so gotta disable that too
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
+  math_engine: null
+
+exclude:
+  - README.md
+
+# Chapter Configuration (up to a 2 level nested list)
+
+prologues:
+  - path: chapters/prologue.md
+    sections:
+      - path: chapters/prologue2.md
+chapters:
+  - path: chapters/01.md
+    sections:
+      - path: chapters/01-1.md
+      - path: chapters/01-2.md
+  - path: chapters/02.md
+epilogues:
+  - path: chapters/epilogue.md

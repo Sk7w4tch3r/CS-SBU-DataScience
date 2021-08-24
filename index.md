@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Neural Networks
+layout: default
+title: Home
 ---
 
 **NN \#\#\# · Fall 2021 · [SBU Computer Science Dept.](http://cs.sbu.ac.ir/)**
