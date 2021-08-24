@@ -4,7 +4,7 @@ permalink:           pretty
 title:               'CS@SBU'
 tagline:             'Data Science Course'
 url:                 https://sk7w4tch3r.github.io/CS-SBU-DataScience
-baseurl:             ''
+baseurl:             '/CS-SBU-DataScience'
 homepage_title:      Home
 default_lang:        'en'
 
