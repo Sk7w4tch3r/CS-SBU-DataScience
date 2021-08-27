@@ -38,10 +38,10 @@ prologues:
     sections:
       - path: chapters/prologue2.md
 chapters:
-  - path: chapters/01.md
+  - path: chapters/chapter1/01.md
     sections:
-      - path: chapters/01-1.md
-      - path: chapters/01-2.md
-  - path: chapters/02.md
+      - path: chapters/chapter1/01-1.md
+      - path: chapters/chapter1/01-2.md
+  - path: chapters/chapter2/02.md
 epilogues:
   - path: chapters/epilogue.md
