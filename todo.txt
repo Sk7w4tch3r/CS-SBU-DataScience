@@ -1,0 +1,5 @@
+TODO: 
+Determinant:
+    zero rank
+    non invertible matrices
+    
