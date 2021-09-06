@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 
-**NN \#\#\# · Fall 2021 · [SBU Computer Science Dept.](http://cs.sbu.ac.ir/)**
+**DSci \#\#\# · Fall 2021 · [SBU Computer Science Dept.](http://cs.sbu.ac.ir/)**
 
 | INSTRUCTOR  | Saeed Reza Kherapisheh |
 | LECTURES    | Mondays 16:55 – 18:35 |
 | PRACTICA    | Tuesdays 19:10 – 20:00 |
-| DISCORD     | [CS SBU](https://discord.gg/CthuqsX8Pb) |
+| DISCORD     | [CS SBU](https://discord.gg/UarjguFxNP) |
 | MATERIAL    | [Notebooks](https://github.com/Sk7w4tch3r/CS-SBU-DataScience) |
 
 ## Description
@@ -19,8 +19,8 @@ This course concerns the latest techniques in deep learning and representation l
 
 **Legend**: 🖥 slides, 📓 Jupyter notebook
 
-<table>
 <!-- =============================== HEADER ================================ -->
+<table>
   <thead>
     <tr>
       <th>Week</th>
@@ -32,22 +32,16 @@ This course concerns the latest techniques in deep learning and representation l
   <tbody>
 <!-- =============================== WEEK 1 ================================ -->
     <tr>
-      <td rowspan="3" align="center"><a href="en/week01/01">①</a></td>
+      <td rowspan="2" align="center"><a href="en/week01/01">①</a></td>
       <td rowspan="2">Lecture</td>
-      <td><a href="en/week01/01-1">Introduction</a></td>
+      <td><a href="chapters/chapter1/01-1">Introduction</a></td>
       <td rowspan="2">
-        <a href="https://drive.google.com/open?id=1Q7LtZyIS1f3TfeTGll3aDtWygh3GAfCb">🖥️</a>
+        <a href="slides/1_Introduction_1.pdf">🖥</a>
+        <a href="week1_1_Introduction_to_Data_Science.ipynb">📓</a>
+        <a href="week1_2_Linear_Algebra_NumPy.ipynb">📓</a>
       </td>
     </tr>
-    <tr><td><a href="en/week01/01-2">Database Knowledge</a></td></tr>
-    <tr>
-      <td rowspan="1">Practicum</td>
-      <td><a href="en/week01/01-3">Neural nets (NN)</a></td>
-      <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/01-tensor_tutorial.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/02-space_stretching.ipynb">📓</a>
-      </td>
-    </tr>
+    <tr><td><a href="chapters/chapter1/01-2">Linear Algebra (NumPy)</a></td></tr>
 <!-- =============================== WEEK 2 ================================ -->
     <tr>
       <td rowspan="2" align="center"><a href="en/week02/02">②</a></td>
@@ -241,5 +235,6 @@ This course concerns the latest techniques in deep learning and representation l
 |:-----|:-----:|:--------|:------|
 |Instructor|<img src="static/instructor.jpeg" width="100" height="100">|<a href="#">Saeed Reza Kheradpisheh</a><br>s_kheradpisheh@sbu.ac.ir|CS Professor at SBU
 |Assistant|<img src="https://avatars.githubusercontent.com/u/32716448?v=4" width="100" height="100">|<a href="https://twitter.com/c3nt4ur1">Hesam Damghanian</a><br>hdamghanian77@gmail.com|CS Student at SBU|
+|Assistant|<img src="https://avatars.githubusercontent.com/saeedark" width="100" height="100">|<a href='https://github.com/saeedark/'>Ali Rahimi</a><br>saeed.ali.rahimi@gmail.com|CS Student at SBU|
 
 
