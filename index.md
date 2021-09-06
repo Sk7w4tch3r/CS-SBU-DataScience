@@ -8,7 +8,7 @@ title: Home
 | INSTRUCTOR  | Saeed Reza Kherapisheh |
 | LECTURES    | Mondays 16:55 – 18:35 |
 | PRACTICA    | Tuesdays 19:10 – 20:00 |
-| DISCORD     | [CS SBU](https://discord.gg/UarjguFxNP) |
+| DISCORD     | [CS SBU](https://discord.gg/zXnE7kUn86) |
 | MATERIAL    | [Notebooks](https://github.com/Sk7w4tch3r/CS-SBU-DataScience) |
 
 ## Description
@@ -46,7 +46,7 @@ This course concerns the latest techniques in deep learning and representation l
     <tr>
       <td rowspan="2" align="center"><a href="en/week02/02">②</a></td>
       <td rowspan="1">Lecture</td>
-      <td><a href="en/week02/02-1">Linear Algebra (Numpy)</a></td>
+      <td><a href="en/week02/02-1">Statistics</a></td>
       <td>
         <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
       </td>
