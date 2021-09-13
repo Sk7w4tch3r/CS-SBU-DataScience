@@ -44,7 +44,7 @@ This course concerns the latest techniques in deep learning and representation l
     <tr><td><a href="chapters/chapter1/01-2">Linear Algebra (NumPy)</a></td></tr>
 <!-- =============================== WEEK 2 ================================ -->
     <tr>
-      <td rowspan="2" align="center"><a href="en/week02/02">②</a></td>
+      <td rowspan="2" align="center"><a href="en/week02/02">②, ③</a></td>
       <td rowspan="1">Lecture</td>
       <td><a href="en/week02/02-1">Linear Algebra (Numpy)</a></td>
       <td>
@@ -62,7 +62,7 @@ This course concerns the latest techniques in deep learning and representation l
       </td>
     </tr>
 <!-- =============================== WEEK 3 ================================ -->
-    <tr>
+    <!-- <tr>
       <td rowspan="2" align="center"><a href="en/week03/03">③</a></td>
       <td rowspan="1">Lecture</td>
       <td><a href="en/week02/02-1">Optimization Methods</a></td>
@@ -78,7 +78,7 @@ This course concerns the latest techniques in deep learning and representation l
         <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/04-spiral_classification.ipynb">📓</a>
         <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/05-regression.ipynb">📓</a>
       </td>
-    </tr>
+    </tr> -->
 <!-- =============================== WEEK 4 ================================ -->
     <tr>
       <td rowspan="2" align="center"><a href="en/week04/04">④</a></td>
