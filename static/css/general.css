@@ -162,3 +162,7 @@ blockquote {
     unicode-bidi: bidi-override !important;
     direction: ltr !important;
 }
+
+.table-wrapper {
+    overflow-x: scroll;
+  }
