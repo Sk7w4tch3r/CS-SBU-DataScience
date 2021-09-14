@@ -61,10 +61,10 @@
           ]});"></script>
     </head>
 
-  <body class="ayu">
+  <body class="light">
     <!-- Provide site root to javascript -->
     <script type="text/javascript">
-        var default_theme = "ayu";
+        var default_theme = "light";
     </script>
 
     <!-- Work around some values being stored in localStorage wrapped in quotes -->
@@ -271,11 +271,11 @@
                         </button>
                     </div>
                     <ul id="theme-list" class="button-popup theme-popup" aria-label="Themes" role="menu">
-                        <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
                         <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                         <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                         <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
-                        <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu (default)</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                     </ul>
 
                     <ul id="lang-list" class="button-popup lang-popup" aria-label="Languages" role="menu">
@@ -299,7 +299,7 @@
                         {% endif %}
                     </ul>
 
-                    <h1 class="menu-title">{{ lang.title }}</h1>
+                    <h1 class="menu-title"><a style="color: inherit; text-decoration: none;" href="{{site.baseurl}}/">{{ lang.title }}</a></h1>
 
                     <div class="right-buttons">
                         <a href="{{ site.git_repository_url }}" title="Git repository" aria-label="Git repository">
