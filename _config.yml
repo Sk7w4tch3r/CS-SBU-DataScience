@@ -19,7 +19,7 @@ github:
 version:             1.0.0
 
 src:                 "."
-default_theme:       "ayu"
+default_theme:       "light"
 
 # To use hljs, disable the default highlighter
 # We also use a built-in math engine so gotta disable that too
@@ -42,6 +42,10 @@ chapters:
     sections:
       - path: chapters/chapter1/01-1.md
       - path: chapters/chapter1/01-2.md
-  - path: chapters/chapter2/02.md
+  - path: chapters/chapter2-3/02.md
+  - path: chapters/chapter4/04.md
+    sections:
+      - path: chapters/chapter4/04-1.md
+      - path: chapters/chapter4/04-2.md
 epilogues:
   - path: chapters/epilogue.md
