@@ -8,7 +8,7 @@ title: Home
 | INSTRUCTOR  | Saeed Reza Kherapisheh |
 | LECTURES    | Mondays 16:55 – 18:35 |
 | PRACTICA    | Tuesdays 19:10 – 20:00 |
-| DISCORD     | [CS SBU](https://discord.gg/UarjguFxNP) |
+| DISCORD     | [CS SBU](https://discord.gg/zXnE7kUn86) |
 | MATERIAL    | [Notebooks](https://github.com/Sk7w4tch3r/CS-SBU-DataScience) |
 
 ## Description
