@@ -35,18 +35,22 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2" align="center"><a href="en/week01/01">①</a></td>
       <td rowspan="2">Lecture</td>
       <td><a href="chapters/chapter1/01-1">Introduction</a></td>
-      <td rowspan="2">
+      <td rowspan="1">
         <a href="slides/1_Introduction_1.pdf">🖥</a>
         <a href="week1_1_Introduction_to_Data_Science.ipynb">📓</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="chapters/chapter1/01-2">Linear Algebra (NumPy)</a></td>
+      <td rowspan="1">
         <a href="week1_2_Linear_Algebra_NumPy.ipynb">📓</a>
       </td>
     </tr>
-    <tr><td><a href="chapters/chapter1/01-2">Linear Algebra (NumPy)</a></td></tr>
 <!-- =============================== WEEK 2 ================================ -->
     <tr>
-      <td rowspan="2" align="center"><a href="en/week02/02">②, ③</a></td>
+      <td rowspan="2" align="center"><a href="chapters/chapter2/02">②, ③</a></td>
       <td rowspan="1">Lecture</td>
-      <td><a href="en/week02/02-1">Linear Algebra (Numpy)</a></td>
+      <td><a href="chapters/chapter2/02-1">Probability and Statistics Basics</a></td>
       <td>
         <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
       </td>
@@ -81,27 +85,24 @@ This course concerns the latest techniques in deep learning and representation l
     </tr> -->
 <!-- =============================== WEEK 4 ================================ -->
     <tr>
-      <td rowspan="2" align="center"><a href="en/week04/04">④</a></td>
-      <td rowspan="1">Lecture</td>
-      <td><a href="en/week02/02-1">Probability and Statistics Basics</a></td>
-      <td>
-        <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
+      <td rowspan="2" align="center"><a href="chapters/chapter4/04">④</a></td>
+      <td rowspan="2">Lecture</td>
+      <td><a href="chapters/chapter4/04-1">Data Wrangling</a></td>
+      <td rowspan="1">
+        <a href="week4_1_Data_Wrangling.ipynb">📓</a>
       </td>
     </tr>
     <tr>
-      <td rowspan="1">Practicum</td>
-      <td><a href="en/week02/02-3">Exercise 3</a></td>
-      <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/04-spiral_classification.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/05-regression.ipynb">📓</a>
+      <td><a href="chapters/chapter4/04-2">Exploratory Data Analysis</a></td>
+      <td rowspan="1">
+        <a href="week4_2_Explorary_Data_Analysis.ipynb">📓</a>
       </td>
     </tr>
 <!-- =============================== WEEK 5 ================================ -->
     <tr>
       <td rowspan="2" align="center"><a href="en/week05/05">⑤</a></td>
       <td rowspan="1">Lecture</td>
-      <td><a href="en/week02/02-1">Data Wrangling</a></td>
+      <td><a href="en/week04/05-1">Data Visualization Basics</a></td>
       <td>
         <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
       </td>
