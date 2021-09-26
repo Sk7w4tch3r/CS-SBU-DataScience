@@ -8,4 +8,4 @@
 | MATERIAL    | [Notebooks](https://github.com/Sk7w4tch3r/CS-SBU-NeuralNetworks) |
 
 ## Description
-This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition. The prerequisites include: Intro to Data Science or a graduate-level machine learning course.
+This course is an introduction to data science. It is an overview of the latest primary knowledge and skills in the data science criteria, focusing on the basics of linear algebra, probability and statistics, first steps of working with data, data wrangling, exploratory data analysis, visualization techniques, and the essentials of supervised learning, time series analysis, and unsupervised methods. There are no particular prerequisites, and we tried to cover everything to our potential.
