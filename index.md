@@ -12,7 +12,7 @@ title: Home
 | MATERIAL    | [Notebooks](https://github.com/Sk7w4tch3r/CS-SBU-DataScience) |
 
 ## Description
-This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition. The prerequisites include: DS-GA 1001 Intro to Data Science or a graduate-level machine learning course.
+This course is an introduction to data science. It is an overview of the latest primary knowledge and skills in the data science criteria, focusing on the basics of linear algebra, probability and statistics, first steps of working with data, data wrangling, exploratory data analysis, visualization techniques, and the essentials of supervised learning, time series analysis, and unsupervised methods. There are no particular prerequisites, and we tried to cover everything to our potential.
 
 
 ## Lectures
@@ -37,16 +37,16 @@ This course concerns the latest techniques in deep learning and representation l
       <td><a href="chapters/chapter1/01-1">Introduction</a></td>
       <td rowspan="1">
         <a href="slides/1_Introduction_1.pdf">🖥</a>
-        <a href="week1_1_Introduction_to_Data_Science.ipynb">📓</a>
+        <a href="Notebooks/week1_Introduction_to_Data_Science.ipynb">📓</a>
       </td>
     </tr>
     <tr>
       <td><a href="chapters/chapter1/01-2">Linear Algebra (NumPy)</a></td>
       <td rowspan="1">
-        <a href="week1_2_Linear_Algebra_NumPy.ipynb">📓</a>
+        <a href="Notebooks/week1_2_Linear_Algebra_NumPy.ipynb">📓</a>
       </td>
     </tr>
-<!-- =============================== WEEK 2 ================================ -->
+<!-- =============================== WEEK 2, 3 ================================ -->
     <tr>
       <td rowspan="2" align="center"><a href="chapters/chapter2/02">②, ③</a></td>
       <td rowspan="1">Lecture</td>
@@ -65,37 +65,19 @@ This course concerns the latest techniques in deep learning and representation l
         <a href="https://www.youtube.com/watch?v=WAn6lip5oWk">🎥</a>
       </td>
     </tr>
-<!-- =============================== WEEK 3 ================================ -->
-    <!-- <tr>
-      <td rowspan="2" align="center"><a href="en/week03/03">③</a></td>
-      <td rowspan="1">Lecture</td>
-      <td><a href="en/week02/02-1">Optimization Methods</a></td>
-      <td>
-        <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="1">Practicum</td>
-      <td><a href="en/week02/02-3">Exercise 2</a></td>
-      <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/04-spiral_classification.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/05-regression.ipynb">📓</a>
-      </td>
-    </tr> -->
 <!-- =============================== WEEK 4 ================================ -->
     <tr>
       <td rowspan="2" align="center"><a href="chapters/chapter4/04">④</a></td>
       <td rowspan="2">Lecture</td>
       <td><a href="chapters/chapter4/04-1">Data Wrangling</a></td>
       <td rowspan="1">
-        <a href="week4_1_Data_Wrangling.ipynb">📓</a>
+        <a href="Notebooks/week4_1_Data_Wrangling.ipynb">📓</a>
       </td>
     </tr>
     <tr>
       <td><a href="chapters/chapter4/04-2">Exploratory Data Analysis</a></td>
       <td rowspan="1">
-        <a href="week4_2_Explorary_Data_Analysis.ipynb">📓</a>
+        <a href="Notebooks/week4_2_Explorary_Data_Analysis.ipynb">📓</a>
       </td>
     </tr>
 <!-- =============================== WEEK 5 ================================ -->
