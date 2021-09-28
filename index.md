@@ -50,19 +50,17 @@ This course is an introduction to data science. It is an overview of the latest 
     <tr>
       <td rowspan="2" align="center"><a href="chapters/chapter2/02">②, ③</a></td>
       <td rowspan="1">Lecture</td>
-      <td><a href="chapters/chapter2/02-1">Probability and Statistics Basics</a></td>
+      <td><a href="chapters/chapter2-3/02-1">Probability and Statistics Basics</a></td>
       <td>
-        <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
+        <a href="slides/1_Introduction_1.pdf">🖥</a>
+        <a href="Notebooks/week2_1_Working_with_Data.ipynb">📓</a>
       </td>
     </tr>
     <tr>
       <td rowspan="1">Practicum</td>
       <td><a href="en/week02/02-3">Exercise 1</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/04-spiral_classification.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/05-regression.ipynb">📓</a>
-        <a href="https://www.youtube.com/watch?v=WAn6lip5oWk">🎥</a>
+        <a href="#">🖥</a>
       </td>
     </tr>
 <!-- =============================== WEEK 4 ================================ -->

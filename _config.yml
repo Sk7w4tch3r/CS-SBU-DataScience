@@ -42,7 +42,7 @@ chapters:
     sections:
       - path: chapters/chapter1/01-1.md
       - path: chapters/chapter1/01-2.md
-  - path: chapters/chapter2-3/02.md
+  - path: chapters/chapter2-3/02-1.md
   - path: chapters/chapter4/04.md
     sections:
       - path: chapters/chapter4/04-1.md
