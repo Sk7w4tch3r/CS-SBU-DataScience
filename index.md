@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-**DSci \#\#\# · Fall 2021 · [SBU Computer Science Dept.](http://cs.sbu.ac.ir/)**
+**Foundations of Data Science · Fall 2021 · [SBU Computer Science Dept.](http://cs.sbu.ac.ir/)**
 
 | INSTRUCTOR  | Saeed Reza Kherapisheh |
 | LECTURES    | Mondays 16:55 – 18:35 |
