@@ -58,9 +58,9 @@ This course is an introduction to data science. It is an overview of the latest 
     </tr>
     <tr>
       <td rowspan="1">Practicum</td>
-      <td><a href="chapters/chapter2-3/02-q">Exercise 1</a></td>
+      <td><a href="chapters/chapter2-3/02-q">Assignment 1</a></td>
       <td>
-        <a href="#">🖥</a>
+        <a href="chapters/chapter2-3/02-q">🖥</a>
       </td>
     </tr>
 <!-- =============================== WEEK 4 ================================ -->
