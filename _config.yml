@@ -51,8 +51,8 @@ chapters:
     sections:
       - path: chapters/chapter4/04-1.md
       - path: chapters/chapter4/04-2.md
-  - path: chapters/chapter5/0
+  - path: chapters/chapter5/05-1.md
     sections:
-      - path: chapters/chapter4/05-1.md
+      - path: chapters/chapter5/05-1.md
 epilogues:
   - path: chapters/epilogue.md
