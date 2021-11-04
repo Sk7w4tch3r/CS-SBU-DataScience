@@ -5,6 +5,7 @@ title: Assignments
 # Assignment 1
     Due Date: 1400/08/02 12PM
     Points: 2.5/20
+<br>
 ## Statistical Analysis
 This assignment consists of two tasks. In each task, a dataset is given. Use [descriptive statistics](https://en.wikipedia.org/wiki/Descriptive_statistics) and [inferential statistics](https://en.wikipedia.org/wiki/Statistical_inference) to write a report about that dataset. For inspiration, some questions are given, but an essential part of this assignment is your posed questions. Apply various yet proper statistical tests and analyses to answer them.
 
@@ -42,6 +43,7 @@ __You should consider new additional creative questions for both tasks and answe
 # Assignment 2
     Due Date: 1400/08/28 12PM
     Points: 2.5/20
+<br>
 ## EDA & Data Visualization
 This assignment needs you to be as creative and curious as you can! Unfortunately, our lives have been deeply affected by the corona virus over these past two years. An important goal of data mining is to understand the patterns and trends in the data and extract knowledge and facts from the raw data. It is clear that with the proper analysis and insightful knowledge of the data, we can make better decisions and inform societeies so we can get past this pandemic.<br><br>
 In this assignment you will be tasked to first clean the data, e.g. remove the outliers and null values properly, and then perform EDA on the data. Your work will be graded based on the quality of the cleaned data, insightful visualizations, and the distilled knowledge that it represents.
