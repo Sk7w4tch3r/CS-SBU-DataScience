@@ -45,7 +45,6 @@ chapters:
   - path: chapters/chapter2-3/02.md
     sections:
       - path: chapters/chapter2-3/02-1.md
-      - path: chapters/chapter2-3/02-q.md
       - path: chapters/chapter2-3/02-a.md
   - path: chapters/chapter4/04.md
     sections:
