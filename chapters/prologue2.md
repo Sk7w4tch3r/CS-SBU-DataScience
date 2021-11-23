@@ -58,3 +58,60 @@ For further information, please refer to the [documentation](https://github.com/
 
 ****
 __You should consider new additional creative questions for assigned tasks and answer them with proper methods. Each task should have its report and IPython Notebook. Once again, we emphasize the report; it should contain all your questions and your innovative findings. Use figures, pictures, and tables, and DO NOT PUT ANY CODE IN THE REPORT.__
+
+
+# Assignment 3
+- Due Date: 1400/09/19 12PM
+- Points: 3/20
+
+# Clustering
+In this assignment you have to perform clustering on the spotify dataset and develop a recommendation system for the users. You will be given a dataset of songs and their features like danceability, energy, etc. You will be asked to perform clustering on the dataset and then recommend songs to the users based on the clusters. 
+
+
+# Task: Music Recommendation System
+In this assignment your submission should contain a the main python code file, [`musicRecommender.py`](../assignments/musicRecommender.py), you may use notebooks for your experiments but the main interface to your work should be from the main python code file. It takes the path to user preferences (a csv file) and outputs: 
+
+- 5 csv files, each containing the top 5 songs for each user. Musics from each playlist should be sampled from the same cluster.
+- A single playlist file containing all the songs recommended to the users. It is not important how the songs are sampled from the clusters.
+
+In your report, you should specify the following:
+
+- Preprocessing steps you used to clean the data.
+- Similarity measures you used, or defined, to find the clusters.
+- The number of clusters you used and the logic behind it.
+
+Note: for the music preferences, the input file, you can simply sample  or you can create your own from your favorite songs.
+
+# Be Bold!
+
+If you're more of a programmer:
+- Use your trained model and call [spotify API](https://developer.spotify.com/discover/) to get your recommendations for the users. If you have previous experience with webservices, and web development, you can develop a web interface for the recommendation system you've trained. It is possible to use the template projects for spotify website from github or other sources, or you can develop your own.
+
+(+1.5 point)
+
+Or, if you're more of a ML/DL researcher:
+
+If you choose to do this, please contact us beforehand.)
+- First read this article on arXiv, [here](https://arxiv.org/pdf/1901.04555.pdf).
+- Use the `artist20` dataset provided by colombia university ([dataset homepage](http://labrosa.ee.columbia.edu/projects/artistid/)), to develop a more general recommendation system. In this way you can train a general, robust recommendation system that will perform relatively well on any new given music file.
+The different data sets are:
+
+    - artist20-mp3s-32k.tgz (1.3GB) - the 32 kbps mono mp3 audio files
+    - artist20-mfccs.tgz (1.6GB) - precalculated 20 dimensional MFCCs at 10ms hops
+    - artist20-chromftrs.tgz (122MB) - per-tatum 12 dimensional chroma vectors
+
+Note: This research task is a line of research on its own, and has the potential of possible publication if done properly.
+
+(+4 points)
+<!-- [dataset](http://labrosa.ee.columbia.edu/projects/artistid/download/) -->
+
+
+## Dataset
+The full list of genres included in the CSV are Trap, Techno, Techhouse, Trance, Psytrance, Dark Trap, DnB (drums and bass), Hardstyle, Underground Rap, Trap Metal, Emo, Rap, RnB, Pop and Hiphop. 
+
+**You can find description of each feature in the [dataset](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features).**
+
+## Download
+You can find the dataset on the kaggle website, this dataset consists of four csv files. The first file is the song features, the second file is the song metadata, the third file is the user playlist, and the fourth file is the user metadata. Here is the link to the dataset: [Spotify Dataset](https://www.kaggle.com/mrmorj/dataset-of-songs-in-spotify)
+****
+__Since there is no common criterion to properly evaluate your work, you should explain the methods and techniques you used to cluster the songs; and explain your rating, or any other logic, behind your recommendation system. Use figures, pictures, and tables, and DO NOT PUT ANY CODE IN THE REPORT.__
