@@ -56,6 +56,9 @@ This assignment dataset is provided by the generous "*Our World in Data*", a.k.a
 
 For further information, please refer to the [documentation](https://github.com/owid/covid-19-data/tree/master/public/data) of the dataset.
 
+## NEW
+Sample submission for this assignment is available [here](../assignments/A2/covid_19_owid.ipynb)
+
 ****
 __You should consider new additional creative questions for assigned tasks and answer them with proper methods. Each task should have its report and IPython Notebook. Once again, we emphasize the report; it should contain all your questions and your innovative findings. Use figures, pictures, and tables, and DO NOT PUT ANY CODE IN THE REPORT.__
 
@@ -69,7 +72,7 @@ In this assignment you have to perform clustering on the spotify dataset and dev
 
 
 # Task: Music Recommendation System
-In this assignment your submission should contain a the main python code file, [`musicRecommender.py`](../assignments/musicRecommender.py), you may use notebooks for your experiments but the main interface to your work should be from the main python code file. It takes the path to user preferences (a csv file) and outputs: 
+In this assignment your submission should contain a the main python code file, [`musicRecommender.py`](../assignments/A3/musicRecommender.py), you may use notebooks for your experiments but the main interface to your work should be from the main python code file. It takes the path to user preferences (a csv file) and outputs: 
 
 - 5 csv files, each containing the top 5 songs for each user. Musics from each playlist should be sampled from the same cluster.
 - A single playlist file containing all the songs recommended to the users. It is not important how the songs are sampled from the clusters.
@@ -115,3 +118,14 @@ The full list of genres included in the CSV are Trap, Techno, Techhouse, Trance,
 You can find the dataset on the kaggle website, this dataset consists of four csv files. The first file is the song features, the second file is the song metadata, the third file is the user playlist, and the fourth file is the user metadata. Here is the link to the dataset: [Spotify Dataset](https://www.kaggle.com/mrmorj/dataset-of-songs-in-spotify)
 ****
 __Since there is no common criterion to properly evaluate your work, you should explain the methods and techniques you used to cluster the songs; and explain your rating, or any other logic, behind your recommendation system. Use figures, pictures, and tables, and DO NOT PUT ANY CODE IN THE REPORT.__
+
+
+# Assignment 4
+- Due Date: 1400/10/10 12PM
+- Points: 4/20
+
+## Supervised Learning
+You can find the assignment instructions [here](../assignments/A4/Assignment 4.pdf).
+
+## Implementation
+The code skeleton for this assignment is provided [here](https://github.com/Sk7w4tch3r/CS-SBU-DataScience/tree/main/assignments/A4) and also you can find the requiered datasets from [here](https://github.com/Sk7w4tch3r/CS-SBU-DataScience/tree/main/assignments/A4/data/).
