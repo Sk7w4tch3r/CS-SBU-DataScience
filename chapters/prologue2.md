@@ -35,6 +35,8 @@ From the Louisville government's [website](https://data.louisvilleky.gov/dataset
 - Is there a trend of some crimes increasing and others decreasing in number over these five years?
 - Which crimes take the longest to report?
 
+## Update
+Sample submissions for this assignment are available [here](../assignments/A1/).
 
 ****
 
@@ -56,8 +58,8 @@ This assignment dataset is provided by the generous "*Our World in Data*", a.k.a
 
 For further information, please refer to the [documentation](https://github.com/owid/covid-19-data/tree/master/public/data) of the dataset.
 
-## NEW
-Sample submission for this assignment is available [here](../assignments/A2/covid_19_owid.ipynb)
+## Update
+Sample submission for this assignment is available [here](../assignments/A2/).
 
 ****
 __You should consider new additional creative questions for assigned tasks and answer them with proper methods. Each task should have its report and IPython Notebook. Once again, we emphasize the report; it should contain all your questions and your innovative findings. Use figures, pictures, and tables, and DO NOT PUT ANY CODE IN THE REPORT.__
