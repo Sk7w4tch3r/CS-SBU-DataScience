@@ -82,7 +82,7 @@ This course is an introduction to data science. It is an overview of the latest 
     <tr>
       <td rowspan="2" align="center"><a href="en/week05/05">⑤</a></td>
       <td rowspan="1">Lecture</td>
-      <td><a href="en/week04/05-1">Data Visualization Basics</a></td>
+      <td><a href="chapters/chapter5/05-1">Data Visualization</a></td>
       <td>
         <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
       </td>
@@ -90,115 +90,6 @@ This course is an introduction to data science. It is an overview of the latest 
     <tr>
       <td rowspan="1">Practicum</td>
       <td><a href="en/week02/02-3">Exercise 4</a></td>
-      <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/04-spiral_classification.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/05-regression.ipynb">📓</a>
-      </td>
-    </tr>
-<!-- =============================== WEEK 6 ================================ -->
-    <tr>
-      <td rowspan="2" align="center"><a href="en/week06/06">⑥</a></td>
-      <td rowspan="1">Lecture</td>
-      <td><a href="en/week02/02-1">Exploratory Data Analysis</a></td>
-      <td>
-        <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="1">Practicum</td>
-      <td><a href="en/week02/02-3">Exercise 5</a></td>
-      <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/04-spiral_classification.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/05-regression.ipynb">📓</a>
-      </td>
-    </tr>
-    </tr>
-<!-- =============================== WEEK 7 ================================ -->
-    <tr>
-      <td rowspan="2" align="center"><a href="en/week07/07">⑦</a></td>
-      <td rowspan="1">Lecture</td>
-      <td><a href="en/week02/02-1">Data Visualization Basics</a></td>
-      <td>
-        <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="1">Practicum</td>
-      <td><a href="en/week02/02-3">Exercise 6</a></td>
-      <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/04-spiral_classification.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/05-regression.ipynb">📓</a>
-      </td>
-    </tr>
-<!-- =============================== WEEK 8 ================================ -->
-    <tr>
-      <td rowspan="2" align="center"><a href="en/week08/08">⑧</a></td>
-      <td rowspan="1">Lecture</td>
-      <td><a href="en/week02/02-1">Linear Regression Basics</a></td>
-      <td>
-        <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="1">Practicum</td>
-      <td><a href="en/week02/02-3">Exercise 7</a></td>
-      <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/04-spiral_classification.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/05-regression.ipynb">📓</a>
-      </td>
-    </tr>
-<!-- =============================== WEEK 9 ================================ -->
-    <tr>
-      <td rowspan="2" align="center"><a href="en/week09/09">⑨</a></td>
-      <td rowspan="1">Lecture</td>
-      <td><a href="en/week02/02-1">Machine Learning Basics</a></td>
-      <td>
-        <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="1">Practicum</td>
-      <td><a href="en/week02/02-3">Exercise 8</a></td>
-      <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/04-spiral_classification.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/05-regression.ipynb">📓</a>
-      </td>
-    </tr>
-<!-- =============================== WEEK 10 =============================== -->
-    <tr>
-      <td rowspan="2" align="center"><a href="en/week10/10">⑩</a></td>
-      <td rowspan="1">Lecture</td>
-      <td><a href="en/week02/02-1">Feature Engineering</a></td>
-      <td>
-        <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="1">Practicum</td>
-      <td><a href="en/week02/02-3">Exercise 9</a></td>
-      <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/04-spiral_classification.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/05-regression.ipynb">📓</a>
-      </td>
-    </tr>
-<!-- =============================== WEEK 11 =============================== -->
-    <tr>
-      <td rowspan="2" align="center"><a href="en/week11/11">⑪</a></td>
-      <td rowspan="1">Lecture</td>
-      <td><a href="en/week02/02-1">Time Series Analysis Basics</a></td>
-      <td>
-        <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="1">Practicum</td>
-      <td><a href="en/week02/02-3">Exercise 10</a></td>
       <td>
         <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
         <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/04-spiral_classification.ipynb">📓</a>
@@ -215,7 +106,7 @@ This course is an introduction to data science. It is an overview of the latest 
 | Role | Photo | Contact | About |
 |:-----|:-----:|:--------|:------|
 |Instructor|<img src="static/instructor.jpeg" width="100" height="100">|<a href="#">Saeed Reza Kheradpisheh</a><br>s_kheradpisheh@sbu.ac.ir|CS Professor at SBU
-|Assistant|<img src="https://avatars.githubusercontent.com/u/32716448?v=4" width="100" height="100">|<a href="https://twitter.com/c3nt4ur1">Hesam Damghanian</a><br>hdamghanian77@gmail.com|CS Student at SBU|
+|Assistant|<img src="https://avatars.githubusercontent.com/u/32716448?v=4" width="100" height="100">|<a href="https://sk7w4tch3r.github.io/">Hesam Damghanian</a><br>hdamghanian77@gmail.com|CS Student at SBU|
 |Assistant|<img src="https://avatars.githubusercontent.com/saeedark" width="100" height="100">|<a href='https://github.com/saeedark/'>Ali Rahimi</a><br>saeed.ali.rahimi@gmail.com|CS Student at SBU|
 
 
