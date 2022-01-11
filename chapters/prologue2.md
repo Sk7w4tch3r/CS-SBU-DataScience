@@ -132,3 +132,14 @@ You can find the assignment instructions [here](../assignments/A4/Assignment 4.p
 
 ## Implementation
 The code skeleton for this assignment is provided [here](https://github.com/Sk7w4tch3r/CS-SBU-DataScience/tree/main/assignments/A4) and also you can find the requiered datasets from [here](https://github.com/Sk7w4tch3r/CS-SBU-DataScience/tree/main/assignments/A4/data/).
+
+
+# Assignment 5
+- Due Date: 1400/11/05 12PM
+- Points: 3/20
+
+## Optimization Algorithms
+You can find the assignment instructions [here](../assignments/A5/Assignment 5.pdf).
+
+## Implementation
+The template code for this assignment is provided [here](https://github.com/Sk7w4tch3r/CS-SBU-DataScience/tree/main/assignments/A5).
