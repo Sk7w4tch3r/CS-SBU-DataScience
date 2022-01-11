@@ -36,7 +36,7 @@ From the Louisville government's [website](https://data.louisvilleky.gov/dataset
 - Which crimes take the longest to report?
 
 ## Update
-Sample submissions for this assignment are available [here](../assignments/A1/).
+Sample submissions for this assignment are available [here](https://github.com/Sk7w4tch3r/CS-SBU-DataScience/tree/main/assignments/A1/Sample%20Report).
 
 ****
 
@@ -59,7 +59,7 @@ This assignment dataset is provided by the generous "*Our World in Data*", a.k.a
 For further information, please refer to the [documentation](https://github.com/owid/covid-19-data/tree/master/public/data) of the dataset.
 
 ## Update
-Sample submission for this assignment is available [here](../assignments/A2/).
+Sample submission for this assignment is available [here](https://github.com/Sk7w4tch3r/CS-SBU-DataScience/tree/main/assignments/A2).
 
 ****
 __You should consider new additional creative questions for assigned tasks and answer them with proper methods. Each task should have its report and IPython Notebook. Once again, we emphasize the report; it should contain all your questions and your innovative findings. Use figures, pictures, and tables, and DO NOT PUT ANY CODE IN THE REPORT.__
@@ -132,6 +132,7 @@ You can find the assignment instructions [here](../assignments/A4/Assignment 4.p
 
 ## Implementation
 The code skeleton for this assignment is provided [here](https://github.com/Sk7w4tch3r/CS-SBU-DataScience/tree/main/assignments/A4) and also you can find the requiered datasets from [here](https://github.com/Sk7w4tch3r/CS-SBU-DataScience/tree/main/assignments/A4/data/).
+<<<<<<< HEAD
 
 
 # Assignment 5
@@ -143,3 +144,5 @@ You can find the assignment instructions [here](../assignments/A5/Assignment 5.p
 
 ## Implementation
 The template code for this assignment is provided [here](https://github.com/Sk7w4tch3r/CS-SBU-DataScience/tree/main/assignments/A5).
+=======
+>>>>>>> 7b8193f2e7f2f7705aafdfff931b0acab353b05e
